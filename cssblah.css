@@ -1,0 +1,33 @@
+
+body{
+    background:grey
+    img src="circle.jpg" alt="image" width="990px");
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    padding-top:100px;
+}
+h1{
+background: black
+    color:white;
+    font-family:S Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.blah3 {
+
+    background: gray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color:rgb(190, 177, 177);
+}
+{a href="#"><img src="circle.JPEG" 
+            alt="View more info" /></a>
+        <p class="btn"><a href="#">See more</a></p>
+    }        
+
+.blah1 {
+
+    background: rgb(173, 173, 169);
+    text-align: right;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
